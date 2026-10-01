@@ -1,0 +1,45 @@
+{
+  "name": "wandahost-ai-website-spec",
+  "brand": "WandaHost",
+  "purpose": "End-to-end specification for an AI coding agent to build the WandaHost website",
+  "recommended_stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Motion",
+    "shadcn/ui",
+    "Lucide"
+  ],
+  "routes": [
+    "/",
+    "/domains",
+    "/hosting",
+    "/wordpress-hosting",
+    "/business-email",
+    "/vps",
+    "/dotnet-hosting",
+    "/cloud",
+    "/security",
+    "/backup",
+    "/website-services",
+    "/ai-services",
+    "/whatsapp",
+    "/reseller",
+    "/pricing",
+    "/about",
+    "/contact",
+    "/support",
+    "/status",
+    "/resources",
+    "/login",
+    "/signup"
+  ],
+  "documents": [
+    "README.md",
+    "MASTER_PROMPT.md",
+    "CONTENT.md",
+    "ARCHITECTURE.md",
+    "ACCEPTANCE_CRITERIA.md",
+    "AI_AGENT_INSTRUCTIONS.md"
+  ]
+}

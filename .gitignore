@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# Next.js build output and local test coverage
+/.next/
+/out/
+/coverage/
+
+# local environment overrides (keep .env.example under version control)
+.env.local
+.env.*.local
+
+# OS and editor artifacts
+.DS_Store
+*.tsbuildinfo
